@@ -46,43 +46,43 @@
         success: "YouTube ist jetzt werbefrei! Bitte beachten Sie, dass Sie diesen Kurzbefehl erneut ausführen müssen, wenn Sie die Seite neu laden."
       },
       fr: {
-        logo: "WebTube",
+        logo: "avec&nbsp;AdGuard",
         alreadyExecuted: "Le raccourci a déjà été exécuté.",
         wrongDomain: "Ce raccourci est censé d’être lancé uniquement sur YouTube.",
         success: "YouTube est maintenant libre de pub ! Veuillez noter qu’il faudra rééxecuter le raccourci si vous rechargez la page."
       },
       it: {
-        logo: "WebTube",
+        logo: "con&nbsp;AdGuard",
         alreadyExecuted: "Il comando è già stato eseguito.",
         wrongDomain: "Questa scorciatoia dovrebbe essere lanciata solo su YouTube.",
         success: "YouTube è ora libero da pubblicità! Si prega di notare che è necessario eseguire nuovamente questa scorciatoia se ricarichi la pagina."
       },
       "zh-cn": {
-        logo: "WebTube",
+        logo: "使用&nbsp;AdGuard",
         alreadyExecuted: "快捷指令已在运行",
         wrongDomain: "快捷指令只能在 YouTube 上被启动。",
         success: "现在您的 YouTube 没有广告！请注意，若您重新加载页面，您需要再次启动快捷指令。"
       },
       "zh-tw": {
-        logo: "WebTube",
+        logo: "偕同&nbsp;AdGuard",
         alreadyExecuted: "此捷徑已被執行。",
         wrongDomain: "此捷徑應該只於 YouTube 上被啟動。",
         success: "現在 YouTube 為無廣告的！請注意，若您重新載入該頁面，您需要再次執行此捷徑。"
       },
       ko: {
-        logo: "WebTube",
+        logo: "AdGuard&nbsp;사용",
         alreadyExecuted: "단축어가 이미 실행되었습니다.",
         wrongDomain: "이 단축어는 YouTube에서만 사용 가능합니다.",
         success: "이제 광고없이 YouTube를 시청할 수 있습니다. 페이지를 새로고침 할 경우, 이 단축어를 다시 실행해야 합니다."
       },
       ja: {
-        logo: "WebTube",
+        logo: "AdGuard作動中",
         alreadyExecuted: "ショートカットは既に実行されています。",
         wrongDomain: "※このショートカットは、YouTubeでのみ適用されることを想定しています。",
         success: "YouTubeが広告なしになりました！※YouTubeページを再読み込みした場合は、このショートカットを再度実行する必要がありますのでご注意ください。"
       },
       uk: {
-        logo: "WebTube",
+        logo: "з&nbsp;AdGuard",
         alreadyExecuted: "Ця швидка команда вже виконується.",
         wrongDomain: "Цю швидку команду слід запускати лише на YouTube.",
         success: "Тепер YouTube без реклами! Проте після перезавантаження сторінки необхідно знову запустити цю швидку команду."
