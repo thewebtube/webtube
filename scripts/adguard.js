@@ -342,7 +342,7 @@
         });
       };
       const script = document.createElement("script");
-      const scriptText = pageScript.toString().replace("__logo_text__", getMessage("logo"));
+      const scriptText = pageScript.toString().replace("__logo_text__", "WebTube");
       script.innerHTML = `(${scriptText})();`;
       document.head.appendChild(script);
       document.head.removeChild(script);
