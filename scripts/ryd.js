@@ -219,7 +219,10 @@ function setState() {
   let statsSet = false;
 
   fetch(
-    `https://returnyoutubedislikeapi.com/votes?videoId=${getVideoId()}`
+    `https://returnyoutubedislikeapi.com/votes?videoId=${getVideoId()}`,
+    {
+        mode: 'no-cors',
+    }
   ).then((response) => {
     response.json().then((json) => {
       if (json && !("traceId" in response) && !statsSet) {
