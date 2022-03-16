@@ -219,7 +219,7 @@ function setState() {
   let statsSet = false;
 
   fetch(
-    `http://cors-any.herokuapp.com/https://returnyoutubedislikeapi.com/votes?videoId=${getVideoId()}`
+    `https://cors-any.herokuapp.com/https://returnyoutubedislikeapi.com/votes?videoId=${getVideoId()}`
   ).then((response) => {
     response.json().then((json) => {
       if (json && !("traceId" in response) && !statsSet) {
