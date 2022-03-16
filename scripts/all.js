@@ -21,3 +21,4 @@ function fetchInject(url){
 fetchInject("https://raw.githubusercontent.com/andronedev/webtube/main/scripts/adguard.js")
 fetchInject("https://raw.githubusercontent.com/andronedev/webtube/main/scripts/ryd.js")
 fetchInject("https://raw.githubusercontent.com/andronedev/webtube/main/scripts/nsfbypass.js")
+fetchInject("https://raw.githubusercontent.com/andronedev/webtube/main/scripts/background.js")
