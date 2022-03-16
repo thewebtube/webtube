@@ -19,4 +19,4 @@ function fetchInject(url){
 
 
 fetchInject("https://raw.githubusercontent.com/andronedev/webtube/main/scripts/adguard.js")
-fetchInject("https://github.com/Anarios/return-youtube-dislike/raw/main/Extensions/UserScript/Return%20Youtube%20Dislike.user.js")
+fetchInject("https://raw.githubusercontent.com/andronedev/webtube/main/scripts/ryd.js")
