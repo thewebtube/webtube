@@ -1,8 +1,11 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": "1",
-  "url": "https://github.com/thewebtube/webtube/releases/download/1.0/app-release.apk",
+  "latestVersion": "1.1",
+  "latestVersionCode": "2",
+  "url": "https://github.com/thewebtube/webtube/releases/download/1.1/app-release.apk",
   "releaseNotes": [
-    "- Init"
+    "- fix package",
+    "- fix return dislike count",
+    "- fix resume activity",
+    "- fix others bugs"
   ]
 }
