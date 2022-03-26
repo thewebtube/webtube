@@ -218,20 +218,26 @@ function setState() {
   cLog("Fetching votes...");
   let statsSet = false;
 
-  fetch(
-    `https://cors-any.herokuapp.com/https://returnyoutubedislikeapi.com/votes?videoId=${getVideoId()}`
-  ).then((response) => {
-    response.json().then((json) => {
-      if (json && !("traceId" in response) && !statsSet) {
-        const { dislikes, likes } = json;
-        cLog(`Received count: ${dislikes}`);
-        likesvalue = likes;
-        dislikesvalue = dislikes;
-        setDislikes(numberFormat(dislikes));
-        createRateBar(likes, dislikes);
+  var xmlhttp = new XMLHttpRequest();
+  var url = `https://returnyoutubedislikeapi.com/votes?videoId=${getVideoId()}`;
+  
+  xmlhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+          var json = JSON.parse(this.responseText);
+          console.log(json)
+          if (json && !(this.responseText.includes("traceId")) && !statsSet) {
+            const { dislikes, likes } = json;
+            cLog(`Received count: ${dislikes}`);
+            likesvalue = likes;
+            dislikesvalue = dislikes;
+            setDislikes(numberFormat(dislikes));
+            createRateBar(likes, dislikes);
+          }
       }
-    });
-  });
+  };
+  xmlhttp.open("GET", url, true);
+  xmlhttp.send();
+
   setState = function(){};
 }
 
