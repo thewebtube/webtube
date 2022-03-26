@@ -1,0 +1,11 @@
+[
+"adguard":{
+  "url":"https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/adguard.js"
+  },
+"retourndislike":{
+  "url":"https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/ryd.js"
+  },
+"nsfbypass":{
+  "url":"https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/nsfbypass.js"
+  }
+]
