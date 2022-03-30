@@ -1,11 +1,12 @@
 {
-  "latestVersion": "1.1",
-  "latestVersionCode": "2",
-  "url": "https://github.com/thewebtube/webtube/releases/download/1.1/app-release.apk",
+  "latestVersion": "1.2",
+  "latestVersionCode": "3",
+  "url": "https://github.com/thewebtube/webtube/releases/download/1.2/app-release.apk",
   "releaseNotes": [
-    "- fix package",
     "- fix return dislike count",
     "- fix resume activity",
+    "- fix fullscreen view",
+    "- set color bar to black",
     "- fix others bugs"
   ]
 }
