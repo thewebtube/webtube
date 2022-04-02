@@ -1,12 +1,14 @@
 {
-  "latestVersion": "1.2",
-  "latestVersionCode": "3",
-  "url": "https://github.com/thewebtube/webtube/releases/download/1.2/app-release.apk",
+  "latestVersion": "1.3",
+  "latestVersionCode": "4",
+  "url": "https://github.com/thewebtube/webtube/releases/download/1.3/app-release.apk",
   "releaseNotes": [
     "- fix return dislike count",
     "- fix resume activity",
-    "- fix fullscreen view",
-    "- set color bar to black",
-    "- fix others bugs"
+    "- added settings page",
+    "- dark mode switch",
+    "- background playback",
+    "- bug fixes",
+    "- removed pip mode (temporarily)"
   ]
 }
