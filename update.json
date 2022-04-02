@@ -9,6 +9,7 @@
     "- dark mode switch",
     "- background playback",
     "- bug fixes",
-    "- removed pip mode (temporarily)"
+    "- removed pip mode (temporarily)",
+    "- added loading screen"
   ]
 }
