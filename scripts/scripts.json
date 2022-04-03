@@ -1,11 +1,36 @@
 [
-"adguard":{
-  "url":"https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/adguard.js"
+  {
+      "name": "Adguard",
+      "url": "https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/adguard.js",
+      "enabled": true,
+      "injectOnUrlChange": false
+
   },
-"retourndislike":{
-  "url":"https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/ryd.js"
+  {
+      "name": "AgeBypasser",
+      "url": "https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/nsfbypass.js",
+      "enabled": true,
+      "injectOnUrlChange": false
+
   },
-"nsfbypass":{
-  "url":"https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/nsfbypass.js"
+  {
+      "name": "AntiClickBait",
+      "url": "https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/Clickbait-Buster.js",
+      "enabled": true,
+      "injectOnUrlChange": false
+
+  },
+  {
+      "name": "SponsorBlock",
+      "url": "https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/sponsorblock.js",
+      "enabled": true,
+      "injectOnUrlChange": true
+
+  },
+  {
+      "name": "Return Dislikes",
+      "url": "https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/ryd.js",
+      "enabled": true,
+      "injectOnUrlChange": true
   }
 ]
