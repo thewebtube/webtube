@@ -21,4 +21,4 @@ function fetchInject(url){
 fetchInject("https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/adguard.js")
 fetchInject("https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/ryd.js")
 fetchInject("https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/nsfbypass.js")
-fetchInject("https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/background.js")
+fetchInject("https://raw.githubusercontent.com/thewebtube/webtube/main/scripts/Clickbait-Buster.js")
