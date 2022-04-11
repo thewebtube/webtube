@@ -12,3 +12,6 @@ Or propose an idea by opening an issue.
 You can also join the discord :
 
 https://discord.gg/MeHMf4D3rQ
+
+
+## **YouTube is owned by Google LLC. WebTube is not affiliated in any way with Google/YouTube**
