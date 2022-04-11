@@ -11,5 +11,20 @@
     "- bug fixes",
     "- removed pip mode (temporarily)",
     "- added loading screen"
+  ],
+  "oldVersions": [
+    {
+      "version": "1.2",
+      "versionCode": "3",
+      "available": true,
+      "url": "https://cdn.discordapp.com/attachments/957588839067709503/958843873411624970/webtube_v1-2.apk",
+      "releaseNotes": [
+        "- fix return dislike count",
+        "- fix resume activity",
+        "- fix fullscreen view",
+        "- set color bar to black",
+        "- fix others bugs"
+        ]
+    }
   ]
 }
