@@ -1,5 +1,7 @@
 # Webtube
-https://webtubeapp.xyz/
+- **Website** : https://webtubeapp.xyz/
+- **Download** : https://github.com/thewebtube/webtube/releases
+
 
 This repo does not contain the source code of the application but contains some elements that allow the application to work properly.
 
