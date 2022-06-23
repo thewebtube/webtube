@@ -1,18 +1,30 @@
 {
-  "latestVersion": "1.3",
+  "latestVersion": "1.4",
   "latestVersionCode": "4",
-  "url": "https://github.com/thewebtube/webtube/releases/download/1.3/app-release.apk",
+  "url": "https://github.com/thewebtube/webtube/releases/download/1.4/app-release.apk",
   "releaseNotes": [
-    "- fix return dislike count",
-    "- fix resume activity",
-    "- added settings page",
-    "- dark mode switch",
-    "- background playback",
-    "- bug fixes",
-    "- removed pip mode (temporarily)",
-    "- added loading screen"
+  "- Suppression of the highlighting effect when clicking on a button",
+  "- Post loading video changed",
+  "- Correction and improvements."
   ],
+  
   "oldVersions": [
+    {
+      "version": "1.3",
+      "versionCode": "4",
+      "available": true,
+      "url": "https://github.com/thewebtube/webtube/releases/download/1.3/app-release.apk",
+      "releaseNotes": [
+        "- fix return dislike count",
+        "- fix resume activity",
+        "- added settings page",
+        "- dark mode switch",
+        "- background playback",
+        "- bug fixes",
+        "- removed pip mode (temporarily)",
+        "- added loading screen"
+        ]
+    },
     {
       "version": "1.2",
       "versionCode": "3",
