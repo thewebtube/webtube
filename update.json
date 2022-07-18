@@ -1,12 +1,13 @@
 {
-  "latestVersion": "1.5.1",
+  "latestVersion": "1.5.2",
   "latestVersionCode": "7",
-  "url": "https://github.com/thewebtube/webtube/releases/download/1.5.1/app-release.apk",
+  "url": "https://github.com/thewebtube/webtube/releases/download/1.5.2/app-release.apk",
   "releaseNotes": [
   "- The plugin manager is now available!",
   "- Dependencies update",
   "- Correction and improvements.",
   "- Implementation of the new logo",
-  "- Fix first start crash"
+  "- Fix first start crash",
+  "- Fullscreen on rotate added"
   ],
 }
